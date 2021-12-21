@@ -42,6 +42,7 @@ public class MYAdapter extends RecyclerView.Adapter<MYAdapter.myViewHolder> {
         holder.categories.setText(category[position]);
         holder.poesm.setText(poem[position]);
 
+
         //
         holder.share.setOnClickListener(new View.OnClickListener() {
             @Override

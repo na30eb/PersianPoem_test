@@ -19,6 +19,8 @@ public class MYAdapter extends RecyclerView.Adapter<MYAdapter.myViewHolder> {
     String title[],category[],poem[] ;
     Context context ;
 
+
+
     public MYAdapter (Context ct,String s1[],String s2[] , String s3[]){
         context = ct ;
         title = s1;

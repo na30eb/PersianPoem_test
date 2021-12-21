@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Persian Poems</string>
+    <string-array name="title">
+        <item>قیصر امین پور</item>
+        <item>سهراب سپهری</item>
+        <item>حافظ</item>
+         <item>شهریار</item>
+        <item>فردوسی </item>
+        <item>فردوسی </item>
+
+    </string-array>
+    <string-array name="category">
+        <item>عارفانه</item>
+        <item>عاشقانه</item>
+        <item>اجتماعی</item>
+        <item>عاشقانه</item>
+        <item>اجتماعی</item>
+        <item>وطن پرستی</item>
+
+
+    </string-array>
+    <string-array name="poem">
+        <item>با نگاهی سرشکسته؛ چشمهایی پینه بسته *** خسته از درهای بسته؛ خسته از چشم انتظاری</item>
+        <item>خنده‌ای کو که به دل انگیزم؟ *** قطره‌ای کو که به دریا ریزم؟ *** صخره‌ای کو که بدان آویزم؟</item>
+        <item>عیب رندان مکن‌ای زاهد پاکیزه سرشت *** که گناه دگران بر تو نخواهند نوشت</item>
+        <item>عاشقی ها میکند دل ، گرچه میداند که غم *** لحظه لحظه از برایش نوحه خوانی میکند</item>
+        <item>مکن بد که بینی به فرجام بد *** ز بد گردد اندر جهان نام بد</item>
+        <item>هنر نزد ایرانیان است و بــس *** ندادند شـیر ژیان را بکس</item>
+
+
+
+    </string-array>
+</resources>

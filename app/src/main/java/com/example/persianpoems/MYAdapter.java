@@ -25,6 +25,7 @@ public class MYAdapter extends RecyclerView.Adapter<MYAdapter.myViewHolder> {
         category = s2 ;
         poem = s3 ;
 
+
     }
 
     @NonNull
